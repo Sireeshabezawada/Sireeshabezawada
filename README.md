@@ -21,7 +21,7 @@ I'm a passionate **Data & Operations Analyst** with 3+ years of experience trans
 
 ## 🧡 About Me
 
-I'm a driven **Data Quality Engineer & Data Analyst** with 3+ years of experience in SQL, Python, ETL processes, data validation, and reporting automation. I specialize in turning complex, inconsistent datasets into clean, reliable insights that power smarter business decisions.
+I'm a driven **Data & Operations Analyst** with 3+ years of experience in SQL, Python, ETL processes, data validation, and reporting automation. I specialize in turning complex, inconsistent datasets into clean, reliable insights that power smarter business decisions.
 
 - 🌐 I share my knowledge on **LinkedIn** — covering data analytics and real-world SQL & Python insights.
 - 🔍  **I don’t argue. I just show the data.** 

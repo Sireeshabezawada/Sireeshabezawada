@@ -19,7 +19,7 @@ I'm a passionate **Data & Operations Analyst** with 3+ years of experience trans
 
 - ---
 
-## 🧡 About Me
+##  📈 My Data Journey
 
 I'm a driven **Data & Operations Analyst** with 3+ years of experience in SQL, Python, ETL processes, data validation, and reporting automation. I specialize in turning complex, inconsistent datasets into clean, reliable insights that power smarter business decisions.
 

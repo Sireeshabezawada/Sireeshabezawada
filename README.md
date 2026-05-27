@@ -17,11 +17,20 @@
 
 I'm a passionate **Data & Operations Analyst** with 3+ years of experience transforming raw data into meaningful insights that drive strategic decisions. I thrive at the intersection of data, technology, and storytelling — making complex information simple and actionable.
 
-- 🌐 I share my knowledge on **YouTube, Medium, and Instagram** — covering data analytics, career tips, and tech insights.
-- 📊 I believe **data has a story to tell** — I'm just the one who listens and translates it for the world.
-- ☕ I'm powered by **coffee, curiosity, and compelling dashboards**.
-- 🎯 Fun fact: I can turn a messy Excel sheet into a beautiful Power BI report faster than you can say "pivot table"!
-- 🤖 Currently exploring **QA automation** with Playwright (JavaScript/TypeScript) to blend data analytics with modern testing workflows.
+- ---
+
+## 🧡 About Me
+
+I'm a driven **Data Quality Engineer & Data Analyst** with 3+ years of experience in SQL, Python, ETL processes, data validation, and reporting automation. I specialize in turning complex, inconsistent datasets into clean, reliable insights that power smarter business decisions.
+
+- 🌐 I share my knowledge on **LinkedIn** — covering data analytics and real-world SQL & Python insights.
+- 🔍  **I don’t argue. I just show the data.** 
+- 📊 From **KPI dashboards to root cause analysis** — I make data work harder so decisions come easier.
+- 🚀 Driven by **curiosity and a passion for exploring new tools, technologies, and data challenges**.
+- 🌱 Currently deepening my expertise in **data quality engineering, cloud-based reporting, and modern data warehousing** with AWS and Azure.
+- 🏆 Certified in **AWS Cloud Practitioner** and **Azure Fundamentals (AZ-900)** — always leveling up, more yet to join the club.
+
+---
 
 ---
 

@@ -9,7 +9,7 @@
 </p>
 
 <h1 align="center">Sireesha Bezawada</h1>
-<h3 align="center">📊 PR Analyst |</h3>
+<h3 align="center">📊 Data & operations Analyst |</h3>
 
 ---
 

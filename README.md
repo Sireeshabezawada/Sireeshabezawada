@@ -107,14 +107,6 @@ I'm a driven **Data & Operations Analyst** with a year of experience in SQL, Pyt
 
 ---
 
-
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sireeshabezawada&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
-</p>
-
----
-
 ## 🤝 Let's Connect!
 
 I'm always open to collaborating on data projects, analytics dashboards, QA automation, or just having a great conversation about tech and data! Feel free to reach out:

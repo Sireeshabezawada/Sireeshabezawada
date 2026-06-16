@@ -36,6 +36,15 @@ I'm a driven **Data & Operations Analyst** with a year of experience in SQL, Pyt
 
 ## 🛠️ Tech Stack
 
+### 🤖 AI & LLMs
+
+<p>
+  <img src="https://img.shields.io/badge/Claude_AI-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude AI"/>
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
+  <img src="https://img.shields.io/badge/Prompt_Engineering-FF6B35?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering"/>
+  <img src="https://img.shields.io/badge/AI_Automation-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="AI Automation"/>
+</p>
+
 ### 🗄️ Data & Analytics
 <p>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>

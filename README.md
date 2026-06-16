@@ -69,6 +69,16 @@ I'm a driven **Data & Operations Analyst** with a year of experience in SQL, Pyt
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
 </p>
 
+## 🏆 Certifications
+
+<p>
+  <img src="https://img.shields.io/badge/AI_Fluency-Framework_%26_Foundations-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="AI Fluency"/>
+  <img src="https://img.shields.io/badge/Claude_Platform_101-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Platform 101"/>
+  <img src="https://img.shields.io/badge/Claude_Code_in_Action-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code in Action"/>
+  <img src="https://img.shields.io/badge/Claude_with_Anthropic_API-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude with Anthropic API"/>
+  <img src="https://img.shields.io/badge/AWS_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS CCP"/>
+  <img src="https://img.shields.io/badge/Azure_Fundamentals_(AZ--900)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AZ-900"/>
+</p>
 ---
 
 ## 🌐 Connect With Me

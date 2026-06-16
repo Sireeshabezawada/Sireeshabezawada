@@ -107,7 +107,7 @@ I'm a driven **Data & Operations Analyst** with a year of experience in SQL, Pyt
 
 ---
 
-## 🏆 GitHub Trophies
+
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Sireeshabezawada&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>

@@ -9,19 +9,19 @@
 </p>
 
 <h1 align="center">Sireesha Bezawada</h1>
-<h3 align="center">📊 Data & Operations Analyst | 3+ Years of Experience</h3>
+<h3 align="center">📊 PR Analyst |</h3>
 
 ---
 
 ## 🙋‍♀️ About Me
 
-I'm a passionate **Data & Operations Analyst** with 3+ years of experience transforming raw data into meaningful insights that drive strategic decisions. I thrive at the intersection of data, technology, and storytelling — making complex information simple and actionable.
+I'm a passionate **Data & Operations Analyst** with a year of experience transforming raw data into meaningful insights that drive strategic decisions. I thrive at the intersection of data, technology, and storytelling — making complex information simple and actionable.
 
 - ---
 
 ##  📈 My Data Journey
 
-I'm a driven **Data & Operations Analyst** with 3+ years of experience in SQL, Python, ETL processes, data validation, and reporting automation. I specialize in turning complex, inconsistent datasets into clean, reliable insights that power smarter business decisions.
+I'm a driven **Data & Operations Analyst** with a year of experience in SQL, Python, ETL processes, data validation, and reporting automation. I specialize in turning complex, inconsistent datasets into clean, reliable insights that power smarter business decisions.
 
 - 🌐 I share my knowledge on **LinkedIn** — covering data analytics and real-world SQL & Python insights.
 - 🔍  **I don’t argue. I just show the data.** 

@@ -3,9 +3,9 @@
   <img src="https://komarev.com/ghpvc/?username=Sireeshabezawada&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Sireeshabezawada" />
 </p>
 
-<!-- Animated Header -->
+<!-- Wave Greeting -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=Hi+there!+I'm+Sireesha+Bezawada+%F0%9F%91%8B;Data+Engineer+%7C+5+Years+of+Experience;SQL+%7C+Python+%7C+Power+BI+%7C+ETL+%7C+PostgreSQL;Turning+Data+into+Decisions+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+profile!+%F0%9F%91%8B;Data+Engineer+%7C+5+Years+of+Experience;SQL+%7C+Python+%7C+Power+BI+%7C+ETL+%7C+PostgreSQL;Turning+Raw+Data+into+Decisions+%F0%9F%9A%80;Building+Pipelines+that+Power+Insights+%F0%9F%94%A5" alt="Typing SVG" />
 </p>
 
 <h1 align="center">✨ Sireesha Bezawada</h1>

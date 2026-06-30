@@ -31,6 +31,66 @@ I'm a passionate **Data Engineer** with **5 years of experience** designing and 
 
 ---
 
+## 🔭 Currently Working On
+
+<div align="center">
+
+### 🚀 ALIEEP Connect — Application & Document Management Platform
+
+</div>
+
+> Building a full-stack web application to streamline the entire applicant journey for **ALIEEP** (A Life-Integrated Educational Experience Program) — from secure sign-up to document management, payments, and admin workflows.
+
+<p align="center">
+  <a href="https://github.com/Sireeshabezawada/Alieep-Connect" target="_blank">
+    <img src="https://img.shields.io/badge/🔗%20View%20Project-Alieep--Connect-a855f7?style=for-the-badge&logo=github&logoColor=white" alt="ALIEEP Connect Repo"/>
+  </a>
+</p>
+
+#### 🔐 Authentication & Access Control
+- ✅ Secure Sign Up & Login
+- ✅ OTP-based Password Reset
+- ✅ Applicant & Admin Role-Based Access
+- ✅ Role-Based Security & Access Control
+- ✅ FERPA-Aware Data Management
+
+#### 📋 Application & Status Management
+- 🔄 Program Application Portal
+- 🔄 Application Status Tracker
+- 🔄 Automatic Applicant → Participant Status Upgrade
+- 🔄 Application Review & Approval Workflow
+- 🔄 Real-Time Status Updates
+
+#### 📁 Document & File Management
+- 🔄 Secure Document Upload & Management
+- 🔄 Participant Document Submission Portal
+- 🔄 Admin Document Request System
+- 🔄 Program Flyers, PDFs & Resource Library
+- 🔄 Secure File Storage
+
+#### 💳 Payments & Notifications
+- 🔄 Payment Integration for Application Fee
+- 🔄 Announcements & Notifications
+- 🔄 Email Notifications
+
+#### 🛡️ Admin & Infrastructure
+- 🔄 Admin Dashboard
+- 🔄 ALIEEP Program Information Pages
+- 🔄 Firebase Cloud Database
+- 🔄 Audit Logs & Activity Tracking
+- 🔄 Mobile Responsive Interface
+- 🔮 Future vcita API Integration
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-In%20Development-orange?style=flat-square&logo=git&logoColor=white" alt="Status"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Stack-Firebase%20%7C%20React%20%7C%20Node.js-blue?style=flat-square&logo=firebase&logoColor=white" alt="Stack"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Type-Full--Stack%20Web%20App-brightgreen?style=flat-square" alt="Type"/>
+</p>
+
+---
+
 ## 🛠️ Tech Stack
 
 ### 🗄️ Data & Databases
